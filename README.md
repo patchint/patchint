@@ -1,9 +1,9 @@
-### me '^'
+## me '^'
 
 Welcome to my GitHub profile page !! 
 My name is Romane, I'm 16 yo. I love doing some things, like... Wait, I love doing what ? x3
 
-# ctrl+c ctrl+v from Twitter
+### ctrl+c ctrl+v from Twitter
 very shitty sysadmin | persona, touhou, love live, brony, vocaloid fan, osu and lol player
 
 My name is Romane, I'm 16 yo, I'm French (Bonjour, oui je parle le baguette) and I like a lot the network and a little less the prog. Here I'll put my different config files or even some stupid softs I've made during my free time :p 
