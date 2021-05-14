@@ -15,9 +15,11 @@ My currently project is Amaterasu, a project base on Linux and a lot of network 
 
 You can talk with me by Twitter and Discord :p :
 [Twitter](https://twitter.com/syswap_)
+
 [My Discord server](https://discord.com/invite/NjqqHvM)
 
 I have my own Website ! :
 [syswap.fr](https://syswap.fr)
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Syswap&show_icons=true&theme=radical)
+![Les Stats GitHub de syswap_](https://github-readme-stats.vercel.app/api?username=Syswap&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syswap&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
