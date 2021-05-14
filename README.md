@@ -19,3 +19,5 @@ You can talk with me by Twitter and Discord :p :
 
 I have my own Website ! :
 [syswap.fr](https://syswap.fr)
+
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Syswap&show_icons=true&theme=radical)
