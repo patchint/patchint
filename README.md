@@ -20,6 +20,6 @@ You can talk with me by Twitter and Discord :p :
 I have my own Website ! :
 [patchli.fr](https://patchli.fr)
 
-![Les Stats GitHub de patch](https://github-readme-stats.vercel.app/api?username=Syswap&show_icons=true&theme=radical)
+![Les Stats GitHub de patch](https://github-readme-stats.vercel.app/api?username=patchint&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syswap&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patchint&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
