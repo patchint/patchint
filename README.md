@@ -8,7 +8,7 @@ very shitty sysadmin | persona, touhou, love live, brony, vocaloid fan, osu and 
 
 My name is Romane, I'm 17 yo, I'm French (Bonjour, oui je parle le baguette) and I like a lot the network and a little less the prog. Here I'll put my different config files or even some stupid softs I've made during my free time :p 
 
-*My pronous are She/They (Elle/Iel)*
+*My pronous are She/Her (Elle)*
 
 My currently project is SpaceInt : 
 [www.spaceint.fr](https://www.spaceint.fr)
