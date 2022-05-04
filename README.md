@@ -1,7 +1,7 @@
 ## me '^'
 
 Welcome to my GitHub profile page !! 
-My name is Romane, I'm 16 yo. I love doing some things, like... Wait, I love doing what ? x3
+My name is Romane, I'm 17 yo. I love doing some things, like... Wait, I love doing what ? x3
 
 ### ctrl+c ctrl+v from Twitter
 very shitty sysadmin | persona, touhou, love live, brony, vocaloid fan, osu and lol player
