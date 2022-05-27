@@ -1,18 +1,11 @@
 ## me '^'
 
-Welcome to my GitHub profile page !! 
-My name is Romane, I'm 17 yo. I love doing some things, like... Wait, I love doing what ? x3
+Welcome to my github.
 
-### ctrl+c ctrl+v from Twitter
-very shitty sysadmin | persona, touhou, love live, brony, vocaloid fan, osu and lol player
+I love developing useless but rewarding stuff. I love working in the open source community.
 
-My name is Romane, I'm 17 yo, I'm French (Bonjour, oui je parle le baguette) and I like a lot the network and a little less the prog. Here I'll put my different config files or even some stupid softs I've made during my free time :p 
-
-*My pronous are She/Her (Elle)*
-
-My currently project is SpaceInt : 
-[www.spaceint.fr](https://www.spaceint.fr)
-[GitHub](https://github.com/SpaceInt)
+My main project is [SpaceInt](https://spaceint.fr), I invite you to check it out :3 
+I work with a team of cool and passionate people 
 
 You can talk with me by Twitter and Discord :p :
 [Twitter](https://twitter.com/patchint_)
@@ -20,6 +13,6 @@ You can talk with me by Twitter and Discord :p :
 I have my own Website ! :
 [patchli.fr](https://patchli.fr)
 
-![Les Stats GitHub de patch](https://github-readme-stats.vercel.app/api?username=patchint&show_icons=true&theme=radical)
+![GitHub stats of patch](https://github-readme-stats.vercel.app/api?username=patchint&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patchint&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
