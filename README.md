@@ -6,7 +6,7 @@ Hi! I'm <a href="https://patchli.fr/" target="_blank" rel="noreferrer">patch</a>
 I'm a Sys/Net Admin and a ""Developper""
 </h2> 
 
-Actually, I'm working at FullSave SAS, and I'm a student at the Institut Limayrac in a BTS SIO SISR
+Currently working at FullSave SAS, and a student at the Institut Limayrac in a BTS SIO SISR
 
 ### Connect with me:
 
