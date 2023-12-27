@@ -15,7 +15,6 @@ Actually, I'm working at FullSave SAS, and I'm a student at the Institut Limayra
 <a href="https://discord.com/users/864867264007110677" target="_blank">Discord</a>
 <a href="https://www.twitch.tv/patchint">Twitch</a>
 <a href="https://www.last.fm/user/patchli" target="_blank">Last.fm</a>
-<a href="https://cdn.patchli.fr/keys/public_ssh.txt" target="_blank">SSH public</a>
 <a href="https://git.patchli.fr" target="_blank">Gitea</a>
 </br>
 
