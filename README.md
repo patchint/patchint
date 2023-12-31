@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/patchint/patchint/main/banner.png)
 <h3 align="center">
 Hi! I'm <a href="https://patchli.fr/" target="_blank" rel="noreferrer">patch</a>
 </h3>
