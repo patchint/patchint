@@ -5,7 +5,7 @@ Hi! I'm <a href="https://patchli.fr/" target="_blank" rel="noreferrer">patch</a>
 ![](https://raw.githubusercontent.com/patchint/patchint/main/banner.png)
 
 <h2 align="center">
-I'm a Sys/Net Admin and a ""Developper""
+I'm a DevOps
 </h2> 
 
 Currently working at FullSave SAS, and a student at the Institut Limayrac in a BTS SIO SISR
