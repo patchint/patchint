@@ -55,6 +55,13 @@ Currently working at FullSave SAS, and a student at the Institut Limayrac in a B
 ![](https://img.shields.io/badge/Networks-BGP-informational?style=flat&logo=BGP&color=181717)
 ![](https://img.shields.io/badge/Networks-Wireguard-informational?style=flat&logo=Wireguard&color=181717)
 ![](https://img.shields.io/badge/Networks-pfSense-informational?style=flat&logo=pfSense&color=181717)
+![](https://img.shields.io/badge/Networks-iOSXE-informational?style=flat&logo=Cisco&color=181717)
+![](https://img.shields.io/badge/Networks-iOSXR-informational?style=flat&logo=Cisco&color=181717)
+![](https://img.shields.io/badge/Networks-SROS-informational?style=flat&logo=Nokia&color=181717)
+![](https://img.shields.io/badge/Networks-Junos-informational?style=flat&logo=Juniper&color=181717)
+![](https://img.shields.io/badge/Networks-RAD-informational?style=flat&logo=RAD&color=181717)
+![](https://img.shields.io/badge/Networks-Huawei-informational?style=flat&logo=Huawei&color=181717)
+
 
 ## Virtualization
 
