@@ -26,6 +26,7 @@ Currently working at Eurofiber France, and a student at the Institut Limayrac in
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=Debian&color=181717)
 ![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=Fedora&color=181717)
 ![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=Gentoo&color=181717)
+![](https://img.shields.io/badge/OS-LinuxFromScratch-informational?style=flat&logo=Linux&color=181717)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&color=181717)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&color=181717)
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=Apple&color=181717)
