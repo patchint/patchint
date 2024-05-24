@@ -1,4 +1,4 @@
-# I MOVED TO GITLAB -> https://gitlab.patchli.fr/patch
+# I MOVED TO GITLAB -> https://git.patchli.fr/patch
 # EVERY REPO HERE WILL NO LONGER BE UPDATED
 #
 #
