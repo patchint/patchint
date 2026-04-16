@@ -1,11 +1,3 @@
-# I MOVED TO GITLAB -> https://git.patchli.fr/patch
-# EVERY REPO HERE WILL NO LONGER BE UPDATED
-#
-#
-#
-#
-#
-#
 <h3 align="center">
 Hi! I'm <a href="https://patchli.fr/" target="_blank" rel="noreferrer">patch</a>
 </h3>
